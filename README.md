@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Diogo Soares 👋
+
+![template4](https://github.com/diogo-dev/diogo-dev/assets/116603808/eca62e4e-dfb5-4fb7-8f4d-9dfd047d61ae)
 
 <!--
 **diogo-dev/diogo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas 
+to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
