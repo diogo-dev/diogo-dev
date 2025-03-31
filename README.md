@@ -2,13 +2,13 @@
 
 I'm currently studying computer science at Maringá State University (Universidade Estadual de Maringá UEM). 
 
-I'm a curious person and that is the main reason I got started in learning about development. I have already worked with:
-- Java
+I'm a curious person and that is the main reason I got started learning about development. I have already worked with:
+- Spring Boot
 - Android Studio
-- Basic Front-End
+- React
 
 Nowadays I'm interested in:
-- JavaScript and TypeScript
+- React Native and Node
 
 I hope you enjoyed my profile and please don't be shy to reach out to me anytime. I'll live here my personal information: 
 - Email: diogofelipe.dev@gmail.com
