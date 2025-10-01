@@ -2,7 +2,7 @@
 
 I'm currently studying computer science at Maringá State University (Universidade Estadual de Maringá UEM). 
 
-I'm a curious person and that is the main reason I got started learning about development. I have already worked with:
+I started exploring development out of curiosity, and I’ve been loving the journey so far. I have already worked with the following techs:
 - Spring Boot
 - Android Studio
 - React
