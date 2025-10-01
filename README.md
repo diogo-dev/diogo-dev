@@ -10,7 +10,7 @@ I started exploring development out of curiosity, and I’ve been loving the jou
 Nowadays I'm interested in:
 - React Native and Node
 
-I hope you enjoyed my profile and please don't be shy to reach out to me anytime. I'll live here my personal information: 
+I hope you enjoyed my profile and please don't be shy to reach out to me anytime. I'll leave here my personal information: 
 - Email: diogofelipe.dev@gmail.com
 - Linkdin: https://www.linkedin.com/in/diogo-felipe-a97487219/
 
