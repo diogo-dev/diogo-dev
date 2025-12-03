@@ -4,11 +4,15 @@ I'm currently studying computer science at Maringá State University (Universida
 
 I started exploring development out of curiosity, and I’ve been loving the journey so far. I have already worked with the following techs:
 - Spring Boot
-- Android Studio
-- React
+- Nest js
+- React js
+- Node js
 
-Nowadays I'm interested in:
-- React Native and Node
+And nowadays I'm still interested in web development with:
+- React js
+- Node js
+- Nest js
+- Next js
 
 I hope you enjoyed my profile and please don't be shy to reach out to me anytime. I'll leave here my personal information: 
 - Email: diogofelipe.dev@gmail.com
