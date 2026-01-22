@@ -17,6 +17,7 @@ And nowadays I'm still interested in web development with:
 I hope you enjoyed my profile and please don't be shy to reach out to me anytime. I'll leave here my personal information: 
 - Email: diogofelipe.dev@gmail.com
 - Linkdin: https://www.linkedin.com/in/diogo-felipe-a97487219/
+- Personal site: www.diogodeveloper.tech
 
 
 <!--
