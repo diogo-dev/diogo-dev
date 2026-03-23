@@ -4,9 +4,9 @@ I'm a recent Computer Science Graduate from State University of Maringá (Univer
 
 I started exploring development out of curiosity, and I’ve been loving the journey so far. I have already worked with the following techs:
 - Spring Boot
-- Nest js
-- React js
-- Node js
+- NestJS
+- React, React Native
+- Node.js
 
 And nowadays I'm still interested in web development with:
 - React
