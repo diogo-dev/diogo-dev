@@ -13,6 +13,7 @@ I'm a full-stack developer who enjoys solving problems and learning how to integ
 
 ## 📚 Learning
 
+![DevOps](https://img.shields.io/badge/DevOps%20∞-000000?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -23,8 +24,9 @@ I hope you enjoyed my profile and please don't be shy to reach out to me anytime
 - Personal site: www.diogodeveloper.tech
 
 I also would like to share the books I'm currently reading
-- Head first Design Patterns
-- System Design Interview An Insider’s Guide by Alex Xu 
+- Head first Design Patterns (still in progress)
+- System Design Interview An Insider’s Guide by Alex Xu (still in progress)
+- The power of habit (Started a week ago)
 
 
 <!--
